@@ -2,5 +2,5 @@
 2020 NCTU Human Centric Computing Lab Final Project
 Using LoCoBot to do artifact search and localization.
 
-how-to
+tutorial:
 https://docs.google.com/document/d/1g-nIOda5YnBxIcOVWQhwZJj3u7nXfO9mmCdTefA-EzQ/edit
