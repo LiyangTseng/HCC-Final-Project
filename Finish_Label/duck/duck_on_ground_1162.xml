@@ -1,7 +1,7 @@
 <annotation>
 	<folder>duck</folder>
-	<filename>duck_on_ground_1201.jpg</filename>
-	<path>/home/justin/HCC-Final-Project/image/duck/duck_on_ground_1201.jpg</path>
+	<filename>duck_on_ground_1162.jpg</filename>
+	<path>/home/justin/HCC-Final-Project/image/duck/duck_on_ground_1162.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>392</xmin>
-			<ymin>311</ymin>
-			<xmax>449</xmax>
-			<ymax>368</ymax>
+			<xmin>380</xmin>
+			<ymin>313</ymin>
+			<xmax>430</xmax>
+			<ymax>361</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>297</xmin>
-			<ymin>241</ymin>
-			<xmax>336</xmax>
-			<ymax>278</ymax>
+			<xmin>283</xmin>
+			<ymin>238</ymin>
+			<xmax>322</xmax>
+			<ymax>281</ymax>
 		</bndbox>
 	</object>
 </annotation>
