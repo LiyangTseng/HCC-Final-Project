@@ -1,7 +1,7 @@
 <annotation>
 	<folder>pineapple</folder>
-	<filename>pineapple_on_ground_1290.jpg</filename>
-	<path>/home/jusin/HCC-Final-Project/image/pineapple/pineapple_on_ground_1290.jpg</path>
+	<filename>pineapple_on_ground_979.jpg</filename>
+	<path>/home/justin/HCC-Final-Project/image/pineapple/pineapple_on_ground_979.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>369</xmin>
-			<ymin>172</ymin>
-			<xmax>492</xmax>
-			<ymax>383</ymax>
+			<xmin>327</xmin>
+			<ymin>194</ymin>
+			<xmax>432</xmax>
+			<ymax>403</ymax>
 		</bndbox>
 	</object>
 </annotation>
