@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rope</folder>
+	<filename>rope_1347.jpg</filename>
+	<path>/home/justin/HCC-Final-Project/image/rope/rope_1347.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rope</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>246</ymin>
+			<xmax>510</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>
