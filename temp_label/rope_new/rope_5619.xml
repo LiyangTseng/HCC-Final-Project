@@ -1,7 +1,7 @@
 <annotation>
 	<folder>rope</folder>
-	<filename>rope_441.jpg</filename>
-	<path>/home/daniel/HCC_competition_2020/origin_image/rope/rope_441.jpg</path>
+	<filename>rope_5619.jpg</filename>
+	<path>/home/justin/HCC-Final-Project/origin_image/rope/rope_5619.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>rope</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>187</xmin>
-			<ymin>266</ymin>
-			<xmax>564</xmax>
-			<ymax>448</ymax>
+			<xmin>55</xmin>
+			<ymin>299</ymin>
+			<xmax>405</xmax>
+			<ymax>480</ymax>
 		</bndbox>
 	</object>
 </annotation>
