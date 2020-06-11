@@ -1,0 +1,26 @@
+<annotation>
+	<folder>people_new_2</folder>
+	<filename>people_new_2_1775.jpg</filename>
+	<path>/home/justin/HCC-Final-Project/origin_image/people_new_2/people_new_2_1775.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>people</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>399</xmin>
+			<ymin>262</ymin>
+			<xmax>488</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
