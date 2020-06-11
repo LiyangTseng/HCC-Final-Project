@@ -5,5 +5,14 @@ do
     FILENAME=$(basename ${file})
     FILENAME="${FILENAME%.*}"
 
-    cp ~/HCC-Final-Project/clear_image/${FILENAME}.jpg  ~/test/
+    for folder in ~/HCC-Final_Project/origin_image/*
+    do
+        cd folder
+
+        if [[ -f ${FILENAME}.jpg ]]
+        then
+            cp ${FILENAME}.jpg  ~/HCC-Final-Project/target_image/
+        fi
+    done
+
 done
