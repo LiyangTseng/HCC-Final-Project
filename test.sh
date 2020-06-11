@@ -7,12 +7,7 @@ do
 
     for folder in ~/HCC-Final-Project/origin_image/*/
     do
-        cd ${folder}
-
-        if [[ -f ${FILENAME}.jpg ]]
-        then
-            cp ${FILENAME}.jpg  ~/HCC-Final-Project/target_image
-        fi
+        echo ${folder}
     done
 
 done
