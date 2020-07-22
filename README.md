@@ -4,3 +4,6 @@ Using LoCoBot to do artifact search and localization.
 
 tutorial:
 https://docs.google.com/document/d/1g-nIOda5YnBxIcOVWQhwZJj3u7nXfO9mmCdTefA-EzQ/edit
+
+final version:
+https://github.com/Justin900429/ROS_Final_Project
